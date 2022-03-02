@@ -8,7 +8,7 @@ def main():
     print("socket criado com sucesso")
 
     host = "localhost"
-    port = 5432
+    port = 5430
 
     s.bind((host, port))
 

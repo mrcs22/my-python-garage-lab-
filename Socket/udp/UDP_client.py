@@ -7,7 +7,7 @@ def main():
     print("Cliente socket acriado com sucesso")
 
     host = "localhost"
-    port = 5432
+    port = 5430
 
     message = "Opa!"
 
